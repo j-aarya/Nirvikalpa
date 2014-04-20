@@ -1,0 +1,11 @@
+==About WorkRave 1.10==
+Workrave is a program that assists in the recovery and prevention of Repetitive Strain Injury (RSI). The program frequently alerts you to take micro-pauses, rest breaks and restricts you to your daily limit. The program runs on GNU/Linux and Microsoft Windows. {{images/Workrave.gif}} 
+==Features==
+- Is a cross-platform program
+- The software periodically locks the screen while an animated character walks the user through various stretch exercises
+- It is dependent on GTK+ graphical widget toolkit, and is also available for Microsoft Windows
+
+==Workrave related links==
+* http://en.wikipedia.org/wiki/Workrave
+* http://www.workrave.org
+

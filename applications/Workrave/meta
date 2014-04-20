@@ -1,0 +1,5 @@
+HOMEPAGE=http://www.workrave.org
+DOWNLOAD_URL=http://sourceforge.net/projects/workrave/files/workrave/1.10/workrave-win32-v1.10-installer.exe/download
+EXECUTABLE_NAME=workrave-win32-v1.10-installer.exe
+VERSION=1.10
+LINUX_NAME=workrave-1.10.tar.gz
