@@ -1,0 +1,5 @@
+HOMEPAGE=http://www.truecrypt.org/
+DOWNLOAD_URL=http://www.truecrypt.org/downloads
+EXECUTABLE_NAME=TrueCrypt Setup 7.1a.exe
+VERSION=7.1a	
+LINUX_NAME=truecrypt-7.1a-linux-console-x64.tar.gz

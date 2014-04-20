@@ -1,0 +1,15 @@
+==About TrueCrypt 7.1a==
+TrueCrypt is an open source freeware application used for on-the-fly encryption (OTFE). It can create a virtual encrypted disk within a file or encrypt a partition or (under Microsoft Windows except Windows 8 with GPT) the entire storage device (pre-boot authentication).{{images/truecrypt1.png}} {{images/truecrypt2.png}}
+
+==Features==
+- Creates a virtual encrypted disk within a file and mounts it as a real disk.
+- Encrypts an entire partition or storage device such as USB flash drive or hard drive.
+- Encrypts a partition or drive where Windows is installed (pre-boot authentication).
+- Encryption is automatic, real-time (on-the-fly) and transparent.
+- Parallelization and pipelining allow data to be read and written as fast as if the drive was not encrypted.
+- Encryption can be hardware-accelerated on modern processors.
+- Provides plausible deniability, in case an adversary forces you to reveal the password:
+
+==TrueCrypt related links==
+* http://www.truecrypt.org/
+* http://en.wikipedia.org/wiki/TrueCrypt
